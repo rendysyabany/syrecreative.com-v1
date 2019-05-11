@@ -1,1 +1,1 @@
-# syrecreative.com-v1
+# syrecreative.com v1.0
